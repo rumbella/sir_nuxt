@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/lapo/Documents/GitHub/sir_nuxt/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_27bace2b"
+  },
+  {
+    "name": "intro",
+    "path": "/intro",
+    "component": "/Users/lapo/Documents/GitHub/sir_nuxt/pages/intro.vue",
+    "chunkName": "pages/intro",
+    "_name": "_a8f2ecec"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/lapo/Documents/GitHub/sir_nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4772a8f0"
+  }
+]
